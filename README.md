@@ -4,6 +4,7 @@ An ip validator that tells you if an ip is still active, then validates whether 
 
 Un validador de ip que te indica si una ip sigue activa, luego valida si es valida o no
 
+cd IPValidator-BSZ
 chmod  777 IPValidator.sh
 bash IPValidator.sh
 
